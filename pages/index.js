@@ -13,7 +13,10 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Hello Carl!
+          <ul>
+            <li><a href="safemart.html">Safemart</a></li>
+          </ul>
         </p>
       </main>
 
