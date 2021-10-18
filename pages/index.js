@@ -15,7 +15,7 @@ export default function Home() {
         <p className="description">
           Hello Carl!
           <ul>
-            <li><a href="safemart.html">Safemart</a></li>
+            <li><a href="pages/safemart.html">Safemart</a></li>
           </ul>
         </p>
       </main>
